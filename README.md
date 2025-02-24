@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edsonuruguay7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="162" src="https://private-user-images.githubusercontent.com/77739311/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAzNTM1NzcsIm5iZiI6MTc0MDM1MzI3NywicGF0aCI6Ii83NzczOTMxMS8yNzEzODQ5MzktNGU5ZjQxYWYtNmI1Ny00OWE3LWIxNWEtNzQzMjJlOTZiNGQ3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIzVDIzMjc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkYzg4MTgzZmEyMjMzN2Y5ZmNkYjUxNjliZTlhZDBlNWM2YzM2Y2RjMjZkMzhlMzVlNzI3MzBhNWNkMTA0Y2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cx1qC7_-Z8i0v8VmKiUmTZgSaC3vgzIQTxd-uXcZaHg"  />
 
 ###
 
