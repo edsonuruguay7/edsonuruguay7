@@ -2,24 +2,27 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/a651a892816348a8c7a2eeecd41e43a0/5d76508b2688ec32-70/s2048x3072_c4000,10417,94800,99306/602ede6cac8aaf7920df8709defa8b202d2d03c1.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edsonuruguay7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edsonuruguay7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
@@ -31,7 +34,19 @@
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkHbggGTzlvjhwxTzGlVxGtzhzRJfzWQVGqCQKfKCNszFTsGMXZwLXhcVKzTVqQcBwhZDv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/edson-uruguay-b30a84304/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/6628f39b9d37dd2c22b4549e126ac0acc6f999400d8d47894d2105d4499dbaed/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f61363531613839323831363334386138633761326565656364343165343361302f356437363530386232363838656333322d37302f733230343878333037325f63343030302c31303431372c39343830302c39393330362f363032656465366361633861616637393230646638373039646566613862323032643264303363312e676966"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/edsonuruguay7/edsonuruguay7/output/snake.svg" alt="Snake animation" />
 
 ###
