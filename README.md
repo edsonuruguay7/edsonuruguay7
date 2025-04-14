@@ -45,8 +45,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/edsonuruguay7/edsonuruguay7/output/snake.svg" alt="Snake animation" />
-
-###
