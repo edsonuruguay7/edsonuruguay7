@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Sobre mim<br>Sou Técnico de Desenvolvimento com experiência em HTML, CSS, JavaScript, Java, PHP, Python, MySQL, SQLite e Workbench. Tenho conhecimento em Scrum e estou me aprofundando em Java e banco de dados. Busco sempre aprender novas tecnologias e entregar soluções eficientes.</h2>
+<h2 align="left">💻 Desenvolvedor em construção constante!<br><br>Sou Técnico de Desenvolvimento com experiência em HTML, CSS, JavaScript, PHP, Python, Java e bancos de dados como MySQL e SQLite 🗃️.<br>Utilizo ferramentas como o Workbench 🛠️ e trabalho com metodologias ágeis como Scrum ⚙️.<br><br>Atualmente, estou me aprofundando em Java ☕ e banco de dados, sempre buscando escrever códigos limpos, eficientes e bem estruturados 🧠💡.<br><br>🚀 Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais.<br><br>📬 Vamos trocar uma ideia? Estou sempre aberto para colaborações e novos projetos!</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/33/b2/22/33b2225ce2b03ac98c8a5fa1af01d6cc.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/00/87/0b/00870b4eeff8fff949e3cbd7c6fecbad.gif"  />
 
 ###
 
