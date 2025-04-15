@@ -1,4 +1,4 @@
-<h2 align="left">💻 Sobre mim:<br>Sou um estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Sempre buscando aprender e evoluir minhas habilidades no desenvolvimento web e backend.<br><br>🔧 Tecnologias que conheço:<br><br>🌐 Frontend: HTML, CSS, JavaScript<br>🖥️ Backend: PHP, Python<br>🗄️ Banco de Dados: MySQL (em aprendizado)<br>📚 O que estou estudando atualmente?<br>Atualmente, estou aprofundando meus conhecimentos em PHP e MySQL para melhorar minhas habilidades no desenvolvimento de aplicações dinâmicas e bancos de dados.</h2>
+<h2 align="left">👨‍💻 Sobre mim<br>Sou Técnico de Desenvolvimento com experiência em HTML, CSS, JavaScript, Java, PHP, Python, MySQL, SQLite e Workbench. Tenho conhecimento em Scrum e estou me aprofundando em Java e banco de dados. Busco sempre aprender novas tecnologias e entregar soluções eficientes.</h2>
 
 ###
 
@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.pinimg.com/originals/00/87/0b/00870b4eeff8fff949e3cbd7c6fecbad.gif"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -16,13 +20,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
 ###
@@ -41,8 +49,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/76/92/a4/7692a4592eec952e25213a66a07d3ee0.gif"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/edsonuruguay7/edsonuruguay7/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
